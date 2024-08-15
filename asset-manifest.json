@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.17f3a7fe.css",
-    "main.js": "./static/js/main.9232056a.js",
+    "main.css": "./static/css/main.697e5372.css",
+    "main.js": "./static/js/main.704b12c4.js",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
     "static/media/main-img-square.png": "./static/media/main-img-square.85120b06c75e5cad51d4.png",
     "static/media/main-img-wide.png": "./static/media/main-img-wide.353b86ad7b7e2f0f1b8d.png",
@@ -34,11 +34,11 @@
     "index.html": "./index.html",
     "static/media/icon-minus-gray.svg": "./static/media/icon-minus-gray.4b7c4fa33c66c0b35185.svg",
     "static/media/icon-minus-black.svg": "./static/media/icon-minus-black.cecb4be39afa7b933ec1.svg",
-    "main.17f3a7fe.css.map": "./static/css/main.17f3a7fe.css.map",
-    "main.9232056a.js.map": "./static/js/main.9232056a.js.map"
+    "main.697e5372.css.map": "./static/css/main.697e5372.css.map",
+    "main.704b12c4.js.map": "./static/js/main.704b12c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.17f3a7fe.css",
-    "static/js/main.9232056a.js"
+    "static/css/main.697e5372.css",
+    "static/js/main.704b12c4.js"
   ]
 }
